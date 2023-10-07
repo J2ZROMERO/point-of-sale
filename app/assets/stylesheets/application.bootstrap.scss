@@ -1,0 +1,40 @@
+// My theme colors
+
+// scss-docs-start theme-color-variables
+$primary: #e08123;
+$secondary: #c5e9da;
+$tertiary: #ebf0ee;
+$quaternary: #172b4d;
+$quinary: #fff;
+
+// scss-docs-end theme-color-variables
+
+//Color links
+$link-color:       $quaternary;
+
+// $navbar-light-color:              red;
+$navbar-light-hover-color:          $quaternary;
+// $navbar-light-active-color:         ;
+// $navbar-light-disabled-color:       rgba($black, .3) !default;
+
+// MODAL SIZES
+$modal-sm:                          300px !default;
+$modal-md:                          550px !default;
+$modal-lg:                          1000px !default;
+$modal-xl:                          1140px !default;
+
+$modal-header-padding-y:            0.3rem !default;
+
+// BADGES
+$secondary:                        $tertiary;
+$badge-font-size:                   0.8rem;
+$badge-font-weight:                 600;
+$badge-color:                       $quaternary;
+$badge-padding-y:                   0.65em;
+
+// SHADOWS
+$box-shadow-sm:               0 0.125rem 0.25rem rgba($primary, 0.075);
+
+
+@import 'bootstrap/scss/bootstrap';
+@import 'bootstrap-icons/font/bootstrap-icons';
