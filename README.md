@@ -1,3 +1,7 @@
+[DB diagram](https://excalidraw.com/#room=f7f69f3d38e4e300b8ed,f0JpX1U4X467RoSfQ8bvaA)
+by [Excalidraw](https://excalidraw.com/)
+
+
 <a name="readme-top"></a>
 
 <!--
