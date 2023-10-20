@@ -1,6 +1,5 @@
 [layouts](https://excalidraw.com/#room=f7f69f3d38e4e300b8ed,f0JpX1U4X467RoSfQ8bvaA)
-by [Excalidraw](https://excalidraw.com/)
-[DB diagram](https://drawsql.app/)
+[DB diagram](https://drawsql.app/teams/microverseactivities/diagrams/point-of-sane)
 <a name="readme-top"></a>
 
 <!--
