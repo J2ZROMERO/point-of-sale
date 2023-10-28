@@ -120,14 +120,37 @@ After you're finished please remove all the comments and instructions!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+
 <!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-> Describe how a new developer could make use of your project.
+In order to run this project you need:
 
-To get a local copy up and running, follow these steps.
+> Install a text-editor you prefer. [Code editors](https://www.techradar.com/best/best-text-editors).
 
+> Install a database management system you prefer. This project uses: postgresql. 
+- [Postgresql](https://www.postgresql.org/) version 15.4
+  > Do not forget to add the user and password to the database.yml file.
+
+> Install ruby. This project uses: ruby 3.2.2
+> [Ruby](https://www.ruby-lang.org/en/downloads/) 
+
+> Install redis. This project uses: redis 7.0.12
+> [Ruby](https://redis.io/) 
+
+> Install rails. This project uses: rails 7.0.8
+> [Ruby on Rails Framework](https://rubyonrails.org/)
+
+> You must have an account on git hub. [Git Hub](https://github.com/)
+
+> You must have installed git in your local environment. [Git](https://git-scm.com/download/win)
+
+> Create the Amniauth google service in  [Google cloud](https://cloud.google.com/).
+> Follow the steps from [Omniauth](https://developers.google.com/identity/protocols/oauth2)
+
+> Create the SMTP service in  [Google cloud](https://cloud.google.com/).
+  
 ### Prerequisites
 
 In order to run this project you need:
