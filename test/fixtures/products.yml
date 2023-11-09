@@ -1,0 +1,29 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  second_name: MyString
+  third_name: MyString
+  descripton: MyText
+  unit_meeasurement: MyString
+  stock_kg: 9.99
+  stock_piece: 
+  stock_liter: 9.99
+  price_1: 9.99
+  price_2: 9.99
+  expiry_date: 2023-11-06
+  barcode: MyText
+
+two:
+  name: MyString
+  second_name: MyString
+  third_name: MyString
+  descripton: MyText
+  unit_meeasurement: MyString
+  stock_kg: 9.99
+  stock_piece: 
+  stock_liter: 9.99
+  price_1: 9.99
+  price_2: 9.99
+  expiry_date: 2023-11-06
+  barcode: MyText
